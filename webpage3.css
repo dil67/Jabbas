@@ -1,0 +1,21 @@
+body{
+    background-image: url(images/deathstar2.gif)
+}
+
+h1{
+    color: yellow;
+    font-size: 35px;
+}
+h2{
+    color: royalblue;
+    font-size: 35px;
+}
+
+#red5{
+    display: flex;
+    justify-content: center;
+}
+#star{
+    display: flex;
+    justify-content: center;
+}

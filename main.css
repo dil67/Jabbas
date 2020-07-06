@@ -1,0 +1,92 @@
+
+
+body{
+    background-image: url(images/space.jpg);}
+
+
+  h1{
+      color: yellow;
+      font-size: 35px;
+      
+  }
+
+h2{
+    color: white;
+    font-size: 30px;
+}
+h3{
+    color: yellow;
+    font-size: 25px;
+}
+h4{
+    color: springgreen;
+    font-size: 25px;
+}
+#jabba{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+
+}
+
+
+
+h5{
+    color: mediumvioletred;
+    font-size: 25px;
+}
+h6{
+    color: orange;
+    font-size: 25px;
+}
+h7{
+    color: pink;
+    font-size: 25px;
+}
+    
+
+  #shop{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+
+  }
+
+h8{
+    color: salmon;
+    font-size: 25px;
+}
+#darth{
+    display: flex;
+    justify-content: space-between;
+}
+
+#force{
+    color: yellow;
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+}
+#about{
+    text-align: center;
+    font-size: 25px;
+    background-color: yellow;
+}
+
+
+
+
+
+    
+
+
+    
+    
+
+
+    
+    
+
+
